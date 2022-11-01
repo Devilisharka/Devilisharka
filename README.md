@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Devilisharka
 - 👀 I’m interested in learning coding
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning java,javascript,react,python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
