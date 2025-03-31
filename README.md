@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Devilisharka
-- 👀 I’m interested in learning coding
+- 👋 Hi, I’m @Arka
+- 👀 I’m interested in Ml, Deep learning
 - 🌱 I’m currently learning pytorch
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
